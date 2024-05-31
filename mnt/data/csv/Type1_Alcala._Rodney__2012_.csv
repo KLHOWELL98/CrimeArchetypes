@@ -1,21 +1,19 @@
 Date,Age,Life Event,Life Event
-02/13/1941,,"Rodney’s older brother, Raoul, was born in San Antonio, TX","Rodney’s older brother, Raoul, was born in San Antonio, TX"
-1942,,"Rodney’s older sister, Marie Therese, was born in San Antonio, TX","Rodney’s older sister, Marie Therese, was born in San Antonio, TX"
-08/23/1943,0,"Rodrigo Jacques Alcala-Buquor was born in San Antonio, Texas to Raou Alcala-Buquor and Anna Maria Gutierrez. He lived with his parents, two sisters, one brother and maternal grandmother.","Rodrigo Jacques Alcala-Buquor was born in San Antonio, Texas to Raou Alcala-Buquor and Anna Maria Gutierrez. He lived with his parents, two sisters, one brother and maternal grandmother."
-04/24/1947,4,"His youngest sister, Marie Christine, was born in San Antonio, TX","His youngest sister, Marie Christine, was born in San Antonio, TX"
-1948,5,"He attended kindergarten, first at St. Joseph Catholic Elementary and then moved to Mount Sacred Heart","He attended kindergarten, first at St. Joseph Catholic Elementary and then moved to Mount Sacred Heart"
-1951,8,"His maternal grandmother became ill and wanted to spend her final years in Mexico. The family moved to Mexico where Rodney attended his first non-Catholic school. While living in Mexico, his grandmother passed away.","His maternal grandmother became ill and wanted to spend her final years in Mexico. The family moved to Mexico where Rodney attended his first non-Catholic school. While living in Mexico, his grandmother passed away."
-1954,?,"After three years of living in Mexico, his father left the family to return to the United States. Soon after, the family relocated to Los Angeles, California.  Rodney was enrolled in St. Alphonsus in East Los Angeles where he attended for two years.","After three years of living in Mexico, his father left the family to return to the United States. Soon after, the family relocated to Los Angeles, California.  Rodney was enrolled in St. Alphonsus in East Los Angeles where he attended for two years."
-1956,13,"He finished eighth grade and then attended high school at private Cantwell-Sacred Heart of Mary. During his last semester in high school, he felt like he had enough religious education and insisted on attending public school.","He finished eighth grade and then attended high school at private Cantwell-Sacred Heart of Mary. During his last semester in high school, he felt like he had enough religious education and insisted on attending public school."
-1960,17,"Graduated from the public high school, Montebello High School.","Graduated from the public high school, Montebello High School."
-06/19/1961,18,He entered a program in North Carolina to become a paratrooper. He then enlisted in the U.S Army where he served as a clerk for four years.,He entered a program in North Carolina to become a paratrooper. He then enlisted in the U.S Army where he served as a clerk for four years.
-01/08/1962,19,"His father unexpectedly passed away in Tulare County, California. The whole family attended the funeral.","His father unexpectedly passed away in Tulare County, California. The whole family attended the funeral."
-1963,20,Unexpectedly showed up at his mother’s door. Hs said that he had hitchhiked from Fort Bragg and traveled about three thousand miles to go AWOL.,Unexpectedly showed up at his mother’s door. Hs said that he had hitchhiked from Fort Bragg and traveled about three thousand miles to go AWOL.
-Early 1964,21,"Medically discharged from the U.S. Army after having a nervous breakdown. He was then diagnosed with an antisocial personality disorder, chronic, severe. When he was released from the hospital, he returned home where he began to feel more like himself.","Medically discharged from the U.S. Army after having a nervous breakdown. He was then diagnosed with an antisocial personality disorder, chronic, severe. When he was released from the hospital, he returned home where he began to feel more like himself."
-09/25/1968,25,"Raped and attempted to murder an 8-year old white female in his apartment in Los Angeles, California. Managed to escape before LAPD entered apartment.","Raped and attempted to murder an 8-year old white female in his apartment in Los Angeles, California. Managed to escape before LAPD entered apartment."
-9/1968,25,"After speaking to neighbors and finding a University of California at Los Angeles (UCLA) student ID in the apartment, Detective Steve Hodel determined Rodney Alcala was the main suspect in the attack of Victim 1 (WF, 8).","After speaking to neighbors and finding a University of California at Los Angeles (UCLA) student ID in the apartment, Detective Steve Hodel determined Rodney Alcala was the main suspect in the attack of Victim 1 (WF, 8)."
-9/1968,25,"Accepted to New York University’s School of the Arts undergraduate program under the alias, John Berger.","Accepted to New York University’s School of the Arts undergraduate program under the alias, John Berger."
-,,,
+02/13/1941,"Rodney’s older brother, Raoul, was born in San Antonio, TX"
+1942,"Rodney’s older sister, Marie Therese, was born in San Antonio, TX"
+08/23/1943,0,"Rodrigo Jacques Alcala-Buquor was born in San Antonio, Texas to Raou Alcala-Buquor and Anna Maria Gutierrez. He lived with his parents, two sisters, one brother and maternal grandmother."
+04/24/1947,4,"His youngest sister, Marie Christine, was born in San Antonio, TX"
+1948,5,"He attended kindergarten, first at St. Joseph Catholic Elementary and then moved to Mount Sacred Heart"
+1951,8,"His maternal grandmother became ill and wanted to spend her final years in Mexico. The family moved to Mexico where Rodney attended his first non-Catholic school. While living in Mexico, his grandmother passed away."
+1954,?,"After three years of living in Mexico, his father left the family to return to the United States. Soon after, the family relocated to Los Angeles, California.  Rodney was enrolled in St. Alphonsus in East Los Angeles where he attended for two years."
+1956,13,"He finished eighth grade and then attended high school at private Cantwell-Sacred Heart of Mary. During his last semester in high school, he felt like he had enough religious education and insisted on attending public school."
+06/19/1961,18,He entered a program in North Carolina to become a paratrooper. He then enlisted in the U.S Army where he served as a clerk for four years.
+01/08/1962,19,"His father unexpectedly passed away in Tulare County, California. The whole family attended the funeral."
+1963,20,Unexpectedly showed up at his mother’s door. Hs said that he had hitchhiked from Fort Bragg and traveled about three thousand miles to go AWOL.
+Early 1964,21,"Medically discharged from the U.S. Army after having a nervous breakdown. He was then diagnosed with an antisocial personality disorder, chronic, severe. When he was released from the hospital, he returned home where he began to feel more like himself."
+09/25/1968,25,"Raped and attempted to murder an 8-year old white female in his apartment in Los Angeles, California. Managed to escape before LAPD entered apartment."
+9/1968,25,"After speaking to neighbors and finding a University of California at Los Angeles (UCLA) student ID in the apartment, Detective Steve Hodel determined Rodney Alcala was the main suspect in the attack of Victim 1 (WF, 8)."
+9/1968,25,"Accepted to New York University’s School of the Arts undergraduate program under the alias, John Berger."
 7/1968,25,"Hired as an arts and drama counselor at a summer camp in George Mills, New Hampshire under the alias John Berger",
 6/1971,28,"Graduated from NYU and began his third summer working at the arts and drama camp in George Mills, New Hampshire.",
 6/1971,28,"Began working as a photographer, primarily focusing on young women, in Manhattan under the alias John Berger.",
@@ -39,9 +37,7 @@ Summer 1977,34,"Parole officer approved request made by Alcala, allowing him to 
 12/14/1977,34,"After receiving a call from the FBI pertaining to the disappearance of Ellen Hoover and the man she was last seen with, John Berger, the LAPD determined John Berger was an alias used by Rodney Alcala and brought him in for questioning. However, without a body or any evidence directly linking Alcala and Hoover, he was released from custody.",
 12/16/1977,34,"The body of Georgia Witxed, 27-year old white female, was found in her apartment in Malibu after she did not pick up a co-worker, as she routinely did. She had been sexually assaulted and strangled.",
 3/1978,35,Spent a brief period of time in jail when marijuana was found in his home while being interviewed by the Hillside Strangler Task Force due to his classification as a sex offender.,
-06/24/1978,35,"The body of an unidentified white female, Jane Doe, was found in the laundry room of the Illinois",
-,,,
-,,"Court apartment complex in El Segundo, CA.",
+06/24/1978,35,"The body of an unidentified white female, Jane Doe, was found in the laundry room of the Illinois Court apartment complex in El Segundo, CA.",
 06/28/1978,35,"Richard Plasse, a homicide police officer for Santa Monica, CA, received a call reporting a missing woman, Charlotte Lamb.",
 6/1978,35,"The remains of Ellen Hoover were found in North Tarrytown in Westchester County, New York after the NYPD Missing Person Squad interviewed people who knew Alcala and determined he often took women to that area to take photographs of them",
 9/1978,35,"The body of the Jane Doe found in El Segundo, CA was identified as the missing woman, Charlotte Lamb.",
@@ -67,7 +63,6 @@ Summer 1977,34,"Parole officer approved request made by Alcala, allowing him to 
 06/27/1979,36,"After coincidentally watching Alcala’s episode of The Dating Game the night before, Detective Art Droz, Marilyn Droz’s husband, sends someone to pick up a copy of Alcala’s episode from Chuck Barris Productions.",
 6/1979,36,"Detectives investigating the disappearance of Robin Samsoe, compiled six photos of similar looking men and showed them to people who claimed to have seen Robin Samsoe at the beach the day she disappeared. All of the witnesses shown the lineup identified Alcala as the man seen with Samsoe.",
 06/28/1979,36,Detectives were sent to Alcala’s address to look for vehicles used during the kidnapping being investigated; brief observations were made of Alcala in a blue station wagon before he made a U-turn abruptly and lost the detectives.,
-,,,
 06/291979,36,"Dana Crappa returns to site where she discovered human remains once again, after working in the same area earlier that day with a fellow fireman, William Poepke, where she became visibly upset when Poepke jokingly threw what he thought was a deer bone at her. Crappa returned to the site to confirm her hunch that the bones found were those of a human and not an animal, she was correct, and once again did not share her findings with anyone.",
 07/02/1979,36,"William Poepke discovers human remains while reworking the area him and Crappa had been at three days earlier and immediately understands Crappa’s odd reaction to his prank. Unlike his coworker, Poepke reports his findings of the dead body to the authorities.",
 07/06/1979,36,Autopsy on remains found by Poepke determined they were of a young girl around 12 years of age; dental records confirmed they were the remains of Robin Samsoe.,
@@ -88,16 +83,14 @@ Summer 1977,34,"Parole officer approved request made by Alcala, allowing him to 
 02/15/1980,37,It was determined by the judge that Alcala’s previous offenses related to abductions and sexual attacks would be allowed into evidence.,
 03/06/1980,37,Opening day of statements in People of the State of California vs. Rodney James Alcala.,
 03/19/1980,37,"Dana Crappa, considered to be the prosecutions key witness, testified that she saw Alcala forcefully steering a blonde girl into the woods in June 20, 1979 and that she saw him again the following evening, June 21, 1979, at the same location as the previous night. She also claimed to have returned to the same site on June 25, 1979 which was when she first saw the body. While on the witness stand, she confirmed that Rodney Alcala was the man she saw on June 20 and June 21.",
-03/19/1980,37,Barnett cross-examined Crappa by focusing on her decision to keep all the events she witnessed to,
-,,,
-,,herself and why she would not report them to the police.,
+03/19/1980,37,Barnett cross-examined Crappa by focusing on her decision to keep all the events she witnessed to herself and why she would not report them to the police.,
 03/20/1980,37,"Inmate Robert J. Dove testified that he heard Alcala tell another Orange County Jail inmate, Michael Herrera, discuss the death of Robin Samsoe.",
 03/20/1980,37,Inmate Michael Herrera testified by elaborating on his conversation with Alcala discussing the details of Samsoe’s kidnapping and death.,
 4/1980,37,The State rested its case.,
 4/1980,37,"The defense asked for a dismissal of the kidnapping charge because there seemed to be no physical proof that a kidnapping occurred. According to the California death penalty law, if kidnapping and murder occurred together, the defendant may be eligible to be sentenced to death. Due to this special circumstance law and his belief that the prosecution did not provided sufficient evidence for the charge, the judge approved the defenses request for the dismissal of performing a lewd or lascivious act on a child under fourteen.",
 04/08/1980,37,The defense began their arguments by focusing on alibi witnesses.,
 04/09/1980,37,"Alcala’s sisters, Christine De La Cerda and Marie Toriano, and his girlfriend, Elizabeth Kelleher, were among three of the defense alibi witnesses, claiming Alcala could not have been involved in the death of Samsoe. They all were considered to be biased witnesses.",
-04/09/1980,37,Defense called inmate Joseph Drake who testified that the prosecutions inmate witnesses Dove and Herrera collaborated with him to lie about the conversations with Alcala about the Samsoe case in order to strike and informer’s bargain with police officers.,
+04/09/1980,37,Defense called inmate Joseph Drake who testified that the prosecutions inmate witnesses Dove and Herrera collaborated with him to lie about the conversations with Alcala about the Samsoe case in order to strike an informer’s bargain with police officers.,
 04/23/1980,37,"After calling a few other witnesses and further trying to discredit Crappa’s testimony, the defense rested their case.",
 04/28/1980,37,Final arguments began.,
 04/29/1980,37,First day of jury deliberations. They requested to have some of Crappa’s testimony read back to them and were unable to reach a verdict by the end of the day.,
@@ -117,18 +110,17 @@ April 1981,38,The murder case of Jill Parenteau was dismissed due to the discred
 04/23/1981,38,"Alcala’s second trial for the murder of 12-year old Robin Samsoe began. The state Supreme Court reversed Alcala's murder conviction in connection with Samsoe, ruling that the jury was 
 improperly told about Alcala's prior sex crimes.",
 05/25/1986,43,The trial ended and the jury began their deliberations.,
-,,,
-05/28/1986,43,"The jury reached their verdict finding Alcala guilty of the murder, false imprisonment—using a deadly weapon, and kidnapping of Robin Samsoe.","The jury reached their verdict finding Alcala guilty of the murder, false imprisonment—using a deadly weapon, and kidnapping of Robin Samsoe."
-060/9/1986,43,The penalty phase of the trial began.,The penalty phase of the trial began.
-06/09/1986,43,Alcala presented the judge with a request for his case to be dismissed because he felt his attorneys were not prepared or willing enough to provide him with a fair trial; Judge Schwab denied this request.,Alcala presented the judge with a request for his case to be dismissed because he felt his attorneys were not prepared or willing enough to provide him with a fair trial; Judge Schwab denied this request.
-6/1986,43,Victim 1 and Victim 3 testified for the prosecution recounting the attacks on them by Alcala.,Victim 1 and Victim 3 testified for the prosecution recounting the attacks on them by Alcala.
-06/19/1986,43,The jury began their deliberation on life in prison or the death penalty for Alcala.,The jury began their deliberation on life in prison or the death penalty for Alcala.
-06/20/1986,43,"For the second time, Alcala is convicted for Samsoe's murder and sentenced to death in Orange County Superior Court.","For the second time, Alcala is convicted for Samsoe's murder and sentenced to death in Orange County Superior Court."
-08/20/1986,43,Formal sentencing began allowing the judge to agree with or reverse the jury’s verdict. The judge agreed with the jury and formally sentenced Alcala to death for the murder and kidnapping of Robin Samsoe.,Formal sentencing began allowing the judge to agree with or reverse the jury’s verdict. The judge agreed with the jury and formally sentenced Alcala to death for the murder and kidnapping of Robin Samsoe.
-12/21/1992,49,The California Supreme Court unanimously upholds Alcala's death sentence,The California Supreme Court unanimously upholds Alcala's death sentence
-04/02/2001,58,"A federal appellate court overturns Alcala's death sentence in the Samsoe case, ruling that the Superior Court judge precluded the defense from presenting evidence 'material to significant issues.'","A federal appellate court overturns Alcala's death sentence in the Samsoe case, ruling that the Superior Court judge precluded the defense from presenting evidence 'material to significant issues.'"
-06/05/2003,60,The Los Angeles County district attorney's office files murder charges against Alcala alleging that he killed Wixted during a burglary and rape.,The Los Angeles County district attorney's office files murder charges against Alcala alleging that he killed Wixted during a burglary and rape.
-09/19/2005,62,"Additional murder charges are filed against Alcala in connection to the deaths of Barcomb, Wixted and Lamb.","Additional murder charges are filed against Alcala in connection to the deaths of Barcomb, Wixted and Lamb."
-01/11/2010,66,Alcala's trial for the five murders begins. He represents himself.,Alcala's trial for the five murders begins. He represents himself.
-2011,68,Indicted for the murders of Ellen Hover and Cornelia Crilley,Indicted for the murders of Ellen Hover and Cornelia Crilley
-12/14/2012,69,Plead guilty to the New York murders of Ellen Hover and Cornelia Crilley.,Plead guilty to the New York murders of Ellen Hover and Cornelia Crilley.
+05/28/1986,43,"The jury reached their verdict finding Alcala guilty of the murder, false imprisonment—using a deadly weapon, and kidnapping of Robin Samsoe.",
+060/9/1986,43,The penalty phase of the trial began.,
+06/09/1986,43,Alcala presented the judge with a request for his case to be dismissed because he felt his attorneys were not prepared or willing enough to provide him with a fair trial; Judge Schwab denied this request.,
+6/1986,43,Victim 1 and Victim 3 testified for the prosecution recounting the attacks on them by Alcala.,
+06/19/1986,43,The jury began their deliberation on life in prison or the death penalty for Alcala.,
+06/20/1986,43,"For the second time, Alcala is convicted for Samsoe's murder and sentenced to death in Orange County Superior Court.",
+08/20/1986,43,Formal sentencing began allowing the judge to agree with or reverse the jury’s verdict. The judge agreed with the jury and formally sentenced Alcala to death for the murder and kidnapping of Robin Samsoe.,
+12/21/1992,49,The California Supreme Court unanimously upholds Alcala's death sentence,
+04/02/2001,58,"A federal appellate court overturns Alcala's death sentence in the Samsoe case, ruling that the Superior Court judge precluded the defense from presenting evidence 'material to significant issues.'",
+06/05/2003,60,The Los Angeles County district attorney's office files murder charges against Alcala alleging that he killed Wixted during a burglary and rape.,
+09/19/2005,62,"Additional murder charges are filed against Alcala in connection to the deaths of Barcomb, Wixted and Lamb.",
+01/11/2010,66,Alcala's trial for the five murders begins. He represents himself.,
+2011,68,Indicted for the murders of Ellen Hover and Cornelia Crilley,
+12/14/2012,69,Plead guilty to the New York murders of Ellen Hover and Cornelia Crilley.,
